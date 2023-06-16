@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>JPM Artes</title>
+  <style>
+    /* Estilos CSS para o site */
+    /* Adicione seus estilos personalizados aqui */
+  </style>
+</head>
+<body>
+  <!-- Cabeçalho -->
+  <header>
+    <h1>JPM Artes</h1>
+    <h2>Transformando ideias em obras de arte</h2>
+  </header>
+
+  <!-- Página inicial -->
+  <section>
+    <h3>Sobre Nós</h3>
+    <p>Uma breve descrição sobre a missão do JPM Artes e o que eles oferecem aos clientes.</p>
+    <!-- Destaque para obras de arte -->
+    <div>
+      <h3>Obras em Destaque</h3>
+      <div>
+        <!-- Imagens e descrições das obras -->
+        <!-- Exemplo:
+        <div>
+          <img src="caminho/para/imagem1.jpg" alt="Obra de Arte 1">
+          <h4>Título da Obra 1</h4>
+          <p>Descrição da obra 1.</p>
+        </div>
+        <div>
+          <img src="caminho/para/imagem2.jpg" alt="Obra de Arte 2">
+          <h4>Título da Obra 2</h4>
+          <p>Descrição da obra 2.</p>
+        </div>
+        -->
+      </div>
+      <a href="portfolio.html">Veja nosso portfólio completo</a>
+    </div>
+  </section>
+
+  <!-- Portfólio -->
+  <section>
+    <h3>Portfólio</h3>
+    <!-- Lista de obras de arte -->
+    <ul>
+      <!-- Exemplo:
+      <li>
+        <img src="caminho/para/imagem3.jpg" alt="Obra de Arte 3">
+        <h4>Título da Obra 3</h4>
+        <p>Descrição da obra 3.</p>
+      </li>
+      <li>
+        <img src="caminho/para/imagem4.jpg" alt="Obra de Arte 4">
+        <h4>Título da Obra 4</h4>
+        <p>Descrição da obra 4.</p>
+      </li>
+      -->
+    </ul>
+  </section>
+
+  <!-- Sobre Nós -->
+  <section>
+    <h3>Sobre Nós</h3>
+    <p>Informações detalhadas sobre o JPM Artes, sua história, equipe, visão artística e abordagem.</p>
+    <p>Depoimentos de clientes satisfeitos, compartilhando suas experiências com o JPM Artes.</p>
+  </section>
+
+  <!-- Serviços -->
+  <section>
+    <h3>Serviços</h3>
+    <ul>
+      <!-- Lista de serviços -->
+      <!-- Exemplo:
+      <li>
+        <h4>Criação de Obras de Arte Personalizadas</h4>
+        <p>Descrição detalhada do serviço.</p>
+      </li>
+      <li>
+        <h4>Encomendas Especiais</h4>
+        <p>Descrição detalhada do serviço.</p>
+      </li>
+      -->
+    </ul>
+  </section>
+
+  <!-- Contato -->
+  <section>
+    <h3>Contato</h3>
+    <p>Informações de contato do JPM Artes.</p>
+    <form>
+      <!-- Formulário de contato -->
+      <!-- Adicione campos para nome, email, mensagem, etc. -->
+    </form>
+    <p>Siga-nos nas redes sociais:</p>
+    <!-- Links para redes sociais -->
+    <!-- Exemplo:
+    <a href="https://www.facebook.com/jpmartes">Facebook</a>
+    <a href="https://www.instagram.com/jpmartes">Instagram</a>
+    -->
+  </section>
+
+  <!-- Rodapé -->
+  <footer>
+    <p>&copy; 2023 JPM Artes. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
